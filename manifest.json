@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "version": "1.0",
+  "description": "__MSG_extDescription__",
+  "default_locale": "en",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4RIAsQTB90bquBSbkjNfRdO19v8bwcVPUd+7osXtQZd5rEZV/m3WO85PZEROzMI3ueQrHdZWnkQ70j44PVlSKYUcKoNkOwkV5SaULODGfSPEgNAUw922RlYVtMjbuNXyJfyBBob+KQ80OKYQ6u1MwQuqX72MPxIgM/rwSqcTqAAY6xsCEgfJEEVyX1dX/fvFnPFP3ckcgJoZzZsQY4rlVRA0HLk+MD7f1bAnrECu7HijFZ9REZpm3BbPyz4Tj8Y8GfPJTRugI3VSG8iU2a/VOW1H5A97Tojij7KQQ+5helrqkHXWVtkUnwTQi224pjXa964CDXT6e5wgejsnmGK7UQIDAQAB",
+  "theme": {
+    "colors": {
+      "frame": [17, 19, 26],
+      "frame_inactive": [22, 24, 32],
+      "toolbar": [26, 29, 39],
+      "tab_text": [232, 234, 240],
+      "tab_background_text": [139, 144, 160],
+      "tab_background_text_inactive": [110, 115, 130],
+      "bookmark_text": [200, 204, 214],
+      "toolbar_button_icon": [200, 204, 214],
+      "toolbar_text": [232, 234, 240],
+      "omnibox_background": [17, 19, 26],
+      "omnibox_text": [232, 234, 240],
+      "ntp_background": [17, 19, 26],
+      "ntp_text": [232, 234, 240],
+      "ntp_link": [169, 156, 242]
+    },
+    "tints": {
+      "buttons": [0.6, 0.1, 0.85]
+    }
+  }
+}
